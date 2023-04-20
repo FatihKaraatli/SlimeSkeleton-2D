@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMenuCapsule_anim
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 91e2fe58d5f09bb4c85bf0cfc6ddbd84, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 6c771e3d2fe2d4d4faf4ec271c4884e8, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: ae17540f7f8bfd64ca85bd8ac6ea21e5, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: e061e7e849e2af94d9548de00d6a6afc, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: 67368f44ef907434aa9ce1c673d514c5, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: b2d75c48a7df4644fb729791d8baa4b9, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 642ad9dec1e0a7949905e4472a53b41b, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: a32f588d4211b374f8739e6a1743bfbd, type: 3}
+    - time: 1.3333334
+      value: {fileID: 21300000, guid: c00dc6689cec87b41ab6747affa89b70, type: 3}
+    - time: 1.5
+      value: {fileID: 21300000, guid: 7758256e20ccf0f4eb62e9daf7e525fa, type: 3}
+    - time: 1.6666666
+      value: {fileID: 21300000, guid: 5d6346b8a65a92f4992b309161da7a5c, type: 3}
+    - time: 1.8333334
+      value: {fileID: 21300000, guid: 14a2059487f73a8408b11a7a17fc8e3d, type: 3}
+    - time: 2
+      value: {fileID: 21300000, guid: 4831df3cad829994ab71fa50987be5b3, type: 3}
+    - time: 2.1666667
+      value: {fileID: 21300000, guid: 4fee1b47432f0b647a656547de1ec1bc, type: 3}
+    - time: 2.3333333
+      value: {fileID: 21300000, guid: eb8f8d3085dca3c42b30f426818088b0, type: 3}
+    - time: 2.5
+      value: {fileID: 21300000, guid: 10b8a66602699764b961d877e63deeb3, type: 3}
+    - time: 2.6666667
+      value: {fileID: 21300000, guid: 742be13775cdfeb459b15c9f3a0827b3, type: 3}
+    - time: 2.8333333
+      value: {fileID: 21300000, guid: 1f687a7ab1a3d8a478220e8ae5f3ff87, type: 3}
+    - time: 3
+      value: {fileID: 21300000, guid: db7cb00214e0df94ca41d2eda4255cac, type: 3}
+    - time: 3.1666667
+      value: {fileID: 21300000, guid: 93dab6a948836b840bd62619d3109f77, type: 3}
+    - time: 3.3333333
+      value: {fileID: 21300000, guid: c011b712f66fba548914e99a49608659, type: 3}
+    - time: 3.5
+      value: {fileID: 21300000, guid: 6c036f94fe877734bb67cb115a9830e0, type: 3}
+    - time: 3.6666667
+      value: {fileID: 21300000, guid: deefd5c1b3d2b2f4bb47e3a7c100f30d, type: 3}
+    - time: 3.8333333
+      value: {fileID: 21300000, guid: 3401ee87ddde49646b047779b4dc09ab, type: 3}
+    - time: 4
+      value: {fileID: 21300000, guid: 9411f886f4f2ff2419ff993382649328, type: 3}
+    - time: 4.1666665
+      value: {fileID: 21300000, guid: ba3ce81ebb223e44493c75d1e49068de, type: 3}
+    - time: 4.3333335
+      value: {fileID: 21300000, guid: 4743d595831c95c45a72d58cd12034ba, type: 3}
+    - time: 4.5
+      value: {fileID: 21300000, guid: 00587235150672540bd4ba740bd76d25, type: 3}
+    - time: 4.6666665
+      value: {fileID: 21300000, guid: 757a9b8dacdf5874f9049ed840261bac, type: 3}
+    - time: 4.8333335
+      value: {fileID: 21300000, guid: 95f221a26210a0941af8ae8b6b84d71d, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 91e2fe58d5f09bb4c85bf0cfc6ddbd84, type: 3}
+    - {fileID: 21300000, guid: 6c771e3d2fe2d4d4faf4ec271c4884e8, type: 3}
+    - {fileID: 21300000, guid: ae17540f7f8bfd64ca85bd8ac6ea21e5, type: 3}
+    - {fileID: 21300000, guid: e061e7e849e2af94d9548de00d6a6afc, type: 3}
+    - {fileID: 21300000, guid: 67368f44ef907434aa9ce1c673d514c5, type: 3}
+    - {fileID: 21300000, guid: b2d75c48a7df4644fb729791d8baa4b9, type: 3}
+    - {fileID: 21300000, guid: 642ad9dec1e0a7949905e4472a53b41b, type: 3}
+    - {fileID: 21300000, guid: a32f588d4211b374f8739e6a1743bfbd, type: 3}
+    - {fileID: 21300000, guid: c00dc6689cec87b41ab6747affa89b70, type: 3}
+    - {fileID: 21300000, guid: 7758256e20ccf0f4eb62e9daf7e525fa, type: 3}
+    - {fileID: 21300000, guid: 5d6346b8a65a92f4992b309161da7a5c, type: 3}
+    - {fileID: 21300000, guid: 14a2059487f73a8408b11a7a17fc8e3d, type: 3}
+    - {fileID: 21300000, guid: 4831df3cad829994ab71fa50987be5b3, type: 3}
+    - {fileID: 21300000, guid: 4fee1b47432f0b647a656547de1ec1bc, type: 3}
+    - {fileID: 21300000, guid: eb8f8d3085dca3c42b30f426818088b0, type: 3}
+    - {fileID: 21300000, guid: 10b8a66602699764b961d877e63deeb3, type: 3}
+    - {fileID: 21300000, guid: 742be13775cdfeb459b15c9f3a0827b3, type: 3}
+    - {fileID: 21300000, guid: 1f687a7ab1a3d8a478220e8ae5f3ff87, type: 3}
+    - {fileID: 21300000, guid: db7cb00214e0df94ca41d2eda4255cac, type: 3}
+    - {fileID: 21300000, guid: 93dab6a948836b840bd62619d3109f77, type: 3}
+    - {fileID: 21300000, guid: c011b712f66fba548914e99a49608659, type: 3}
+    - {fileID: 21300000, guid: 6c036f94fe877734bb67cb115a9830e0, type: 3}
+    - {fileID: 21300000, guid: deefd5c1b3d2b2f4bb47e3a7c100f30d, type: 3}
+    - {fileID: 21300000, guid: 3401ee87ddde49646b047779b4dc09ab, type: 3}
+    - {fileID: 21300000, guid: 9411f886f4f2ff2419ff993382649328, type: 3}
+    - {fileID: 21300000, guid: ba3ce81ebb223e44493c75d1e49068de, type: 3}
+    - {fileID: 21300000, guid: 4743d595831c95c45a72d58cd12034ba, type: 3}
+    - {fileID: 21300000, guid: 00587235150672540bd4ba740bd76d25, type: 3}
+    - {fileID: 21300000, guid: 757a9b8dacdf5874f9049ed840261bac, type: 3}
+    - {fileID: 21300000, guid: 95f221a26210a0941af8ae8b6b84d71d, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 4.8500004
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.16666667
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.33333334
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.5
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.6666667
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8333333
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1666666
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3333334
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.5
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.6666666
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.8333334
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.3333333
+    functionName: FlashEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.6666667
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.8333333
+    functionName: FlashEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.3333333
+    functionName: FlashEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.5
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.8333333
+    functionName: FlashEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.1666665
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.6666665
+    functionName: FlashEffectSmall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
